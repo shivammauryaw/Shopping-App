@@ -1,4 +1,4 @@
-package com.example.loginpage
+package com.example.shoppingapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
