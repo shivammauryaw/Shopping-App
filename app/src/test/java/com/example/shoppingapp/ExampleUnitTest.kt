@@ -1,4 +1,4 @@
-package com.example.loginpage
+package com.example.shoppingapp
 
 import org.junit.Test
 
